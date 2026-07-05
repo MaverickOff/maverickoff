@@ -41,7 +41,7 @@ Un vistazo rápido sobre mí:
 
 ### 📬 Contacto
 
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/paul-brand-russi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:paul.russi@outlook.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"></a>
   <a href="https://paulbase.cloud" target="_blank"><img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
