@@ -33,9 +33,9 @@ Un vistazo rápido sobre mí:
 
 | Proyecto | Descripción | Stack Principal |
 | :--- | :--- | :--- |
-| **[Infraestructura Web & CI/CD](https://github.com/MaverickOff/tu-repo-aqui)** | Despliegue de dominios estáticos (`paulbase.cloud`) en AWS. Pipeline automatizado para sincronizar código con S3 y EC2. Políticas de Mínimo Privilegio (IAM). | `AWS` `GitHub Actions` |
-| **[Bash Automation & Auditing](https://github.com/MaverickOff/tu-repo-aqui)** | Scripts de validación automática para +100 URLs, detectando errores HTTP (404, caídas) para mantenimiento de SLAs. | `Bash` `Linux` |
-| **[Documentación ITIL & Arquitectura](https://github.com/MaverickOff/tu-repo-aqui)** | Repositorio de base de conocimiento: logs de troubleshooting estructurado y diagramas de redes corporativas. | `Markdown` `Troubleshooting` |
+| **Infraestructura Web & CI/CD** | Despliegue de dominios estáticos (`paulbase.cloud`) en AWS. Pipeline automatizado para sincronizar código con S3 y EC2. Políticas de Mínimo Privilegio (IAM). | `AWS` `GitHub Actions` |
+| **Bash Automation & Auditing** | Scripts de validación automática para +100 URLs, detectando errores HTTP (404, caídas) para mantenimiento de SLAs. | `Bash` `Linux` |
+| **Documentación ITIL & Arquitectura** | Repositorio de base de conocimiento: logs de troubleshooting estructurado y diagramas de redes corporativas. | `Markdown` `Troubleshooting` |
 
 ---
 
