@@ -3,9 +3,8 @@
 
 Un vistazo rápido sobre mí:
 - 📍 Base: Madrid, España.
-- ⚙️ Enfoque: Administración de sistemas (Linux/Windows), soporte IT, despliegues en AWS y automatización de procesos.
+- ⚙️ Enfoque: Administración de sistemas (Linux/Windows), despliegues en AWS y automatización de procesos.
 - 🚀 Actualmente: Gestionando mi propia infraestructura cloud y optimizando pipelines CI/CD.
-- ⚡ Fuera de la terminal: Me apasiona el entrenamiento de fuerza y la mecánica de los relojes automáticos.
 
 ---
 
